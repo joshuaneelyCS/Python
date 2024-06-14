@@ -1,7 +1,5 @@
 <h1>Hair Salon Program</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 This project allows users to store clients in a database where the user can record the date of the visit, type of haircut they received, and product used for future reference. There is also a search function that allows the user to search up past clients in the database.
 <br />
