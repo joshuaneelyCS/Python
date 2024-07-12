@@ -9,3 +9,12 @@ def lengthOfLastWord(self, s):
             i -= 1
         
         return len(s)
+
+def lengthOfLastWordSimplified(self, s):
+
+        words = s.strip().split()
+
+        if not words:
+                return 0
+
+        return len(words[-1])
