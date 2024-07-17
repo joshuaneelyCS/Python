@@ -17,11 +17,11 @@ This project allows users to store clients in a database where the user can reco
 
 <p align="center">
 Create a Client <br/>
-<img src="https://imgur.com/kILkXP1.PNG" height="80%" width="80%" alt="Image 1"/>
+<img src="https://imgur.com/kILkXP1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Search a Client  <br/>
-<img src="https://imgur.com/jxkHw2t.PNG" height="80%" width="80%" alt="Image 2"/>
+<img src="https://imgur.com/jxkHw2t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
